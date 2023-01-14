@@ -1,6 +1,6 @@
 From freeCodeCamp [https://www.youtube.com/watch?v=u6gSSpfsoOQ]
 
-Meals Applications original code []
+Meals Applications original code [https://github.com/john-smilga/react-meals-application-freeCodeCamp]
 
 Preview in Vercel []
 
