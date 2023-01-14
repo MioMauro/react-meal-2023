@@ -2,7 +2,7 @@ From freeCodeCamp [https://www.youtube.com/watch?v=u6gSSpfsoOQ]
 
 Meals Applications original code [https://github.com/john-smilga/react-meals-application-freeCodeCamp]
 
-Preview in Vercel []
+Preview in Vercel [https://react-meal-2023.vercel.app/]
 
 # Getting Started with Create React App
 
